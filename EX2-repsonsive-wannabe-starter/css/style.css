@@ -165,5 +165,27 @@ img {
     }
 }
 
+@media screen and (max-width: 420px){
+
+    .why-us .col-left  {
+      width: auto;
+    }
+}
+
+
+@media screen and (max-width: 420px){
+
+    .why-us .col-right  {
+      width: auto;
+      text-align: center;
+    }
+}
+
+
+
+
+
+
+
 
 
