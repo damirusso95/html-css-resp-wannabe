@@ -149,7 +149,7 @@ img {
  @media screen and (max-width: 480px){
 
     .container {
-      width: auto;
+      width: 100%;
       margin-left: auto;
       margin-right: auto;
       margin-top: 10px;
@@ -166,21 +166,23 @@ img {
 @media screen and (max-width: 480px){
 
     .lessons .col {
-      width: auto;
+      width: 100%;
     }
 }
 
 @media screen and (max-width: 480px){
 
     .steps .col {
-      width: auto;
+      width: 100%;
+      margin-bottom: 4rem;
     }
 }
 
 @media screen and (max-width: 480px){
 
     .why-us .col-left  {
-      width: auto;
+      width: 100%;
+      margin-bottom: 4rem;
     }
 }
 
@@ -189,7 +191,6 @@ img {
 
     .why-us .col-right  {
       width: auto;
-      text-align: center;
     }
 }
 
